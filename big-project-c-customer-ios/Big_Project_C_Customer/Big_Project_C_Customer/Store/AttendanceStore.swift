@@ -46,7 +46,7 @@ class AttendanceStore : ObservableObject {
     func checkAttendanceListener(seminarID: String, completion: @escaping (Bool) -> ()) { // - 3
         self.listener = database.document(seminarID).collection("Attendance").addSnapshotListener { querySnapshot, error in
             print("메시지 리스너 호출")
-            guard let documents = querySnapshot?.documents else {
+            guard (querySnapshot?.documents) != nil else {
                 print("Error fetching documents: (error!)")
                 return
             }
