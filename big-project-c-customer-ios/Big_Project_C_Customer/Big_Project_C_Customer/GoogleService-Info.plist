@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>18344743419-mghku1ph1tbermnr8tnffolnkrsrj4qi.apps.googleusercontent.com</string>
+	<string>42469868913-50e2oi2i98htukjl76g7raqka4oshoda.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.18344743419-mghku1ph1tbermnr8tnffolnkrsrj4qi</string>
+	<string>com.googleusercontent.apps.42469868913-50e2oi2i98htukjl76g7raqka4oshoda</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBkW5-_wcebG7nSzb73VzDk_UF5-Ti3gzk</string>
+	<string>AIzaSyCR54slod6w2IC0TFg7GqLPaM0TG5mQolw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>18344743419</string>
+	<string>42469868913</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.codelion.Big-Project-C-Customer</string>
+	<string>com.JHLee.Techiting</string>
 	<key>PROJECT_ID</key>
-	<string>likelionprojectcdev</string>
+	<string>techiting-bd7bb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>likelionprojectcdev.appspot.com</string>
+	<string>techiting-bd7bb.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:18344743419:ios:252d90f024f3bee4bb7b5e</string>
+	<string>1:42469868913:ios:7a2cb46fc80da85ee2e2d0</string>
 </dict>
 </plist>
