@@ -1,7 +1,7 @@
 <h1 align="middle">테킷팅(Tech!Ting)</h1>
  <p align="middle"><img src="https://user-images.githubusercontent.com/114331071/209794898-95d4d074-a41c-4f03-9db8-4b1c0a9df726.png" width=30%></p>
 
-## 유민영 강사님 앱 실행 가이드
+## 앱 실행 가이드
 ```
 1. main 브랜치에서 zip 파일을 다운로드 받아주세요.
 2. iPhone Pro 14, Portrait Mode, Light Mode 환경에서 실행을 요청드립니다.
@@ -19,5 +19,3 @@
 사용자는 앱을 통해 테킷에서 열리는 다양한 IT 세미나 정보를 확인할 수 있습니다.   
 관심 있는 세미나가 있다면, 정보를 확인한 후 [신청하기] 버튼을 눌러주세요. (해당 기능은 로그인한 사용자에게만 제공됩니다.)
 ```
-
-## 참여자
